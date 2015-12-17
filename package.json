@@ -1,0 +1,23 @@
+{
+  "name": "firstapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrbeewer/my_first_node_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrbeewer/my_first_node_api/issues"
+  },
+  "homepage": "https://github.com/mrbeewer/my_first_node_api#readme",
+  "dependencies": {
+    "http": "0.0.0",
+    "mongoose": "^4.3.1"
+  }
+}
